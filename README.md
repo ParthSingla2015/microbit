@@ -1,85 +1,80 @@
-# Parth Singla's Micro:bit Project Portfolio 🚀
+# Micro:bit Projects by Parth Singla 🚀
 
-Hi, I’m **Parth Singla** — a young STEM builder exploring **Micro:bit coding, LEGO engineering, games, sensors, creativity, books, and climate storytelling** through hands-on projects.
+Hi, I’m **Parth Singla** — a young STEM builder who enjoys creating **Micro:bit games, sensor projects, book-inspired coding ideas, and creative learning experiments**.
 
-This repository is now a **combined portfolio repo** that brings together all 9 of my Micro:bit projects inside one place.
+This repository is a clean portfolio of my **9 Micro:bit projects**. Each project is organised inside its own folder so it is easy to read, explore, and review.
 
-## Main Folder
+## Repository Structure
 
-All projects are collected here:
+```text
+microbit/
+├── README.md
+└── projects/
+    ├── space-invaders/
+    ├── memory-game/
+    ├── coin-flipper/
+    ├── rock-paper-scissors/
+    ├── dot-chaser/
+    ├── snap-the-dot/
+    ├── crashy-bird/
+    ├── compass-and-music-maker/
+    └── wimpy-kid-20/
+```
 
-➡️ [`projects/`](./projects)
+## Projects at a Glance
 
-Each project has its own folder and source code file.
+| # | Project | Type | Main Learning |
+|---|---|---|---|
+| 1 | [Space Invaders](./projects/space-invaders) | Game | Sprites, score, lives, collision detection |
+| 2 | [Memory Game](./projects/memory-game) | Game / Logic | Sequences, levels, memory, conditions |
+| 3 | [Coin Flipper](./projects/coin-flipper) | Maths / Probability | Randomness and outcomes |
+| 4 | [Rock Paper Scissors](./projects/rock-paper-scissors) | Game | Random choices and icons |
+| 5 | [Dot Chaser](./projects/dot-chaser) | Game | Movement, gestures, scoring |
+| 6 | [Snap the Dot](./projects/snap-the-dot) | Reflex Game | Timing and reaction |
+| 7 | [Crashy Bird](./projects/crashy-bird) | Arcade Game | Obstacles, movement, game-over logic |
+| 8 | [Compass and Music Maker](./projects/compass-and-music-maker) | Sensor / Music | Compass heading, gestures, sound |
+| 9 | [Wimpy Kid 20](./projects/wimpy-kid-20) | Book-Inspired Coding | Storytelling and button interactions |
 
-## Projects Included
-
-| Project Folder | Original Repository | What it shows |
-|---|---|---|
-| [`projects/space-invaders`](./projects/space-invaders) | [space-invaders](https://github.com/ParthSingla2015/space-invaders) | Game logic, sprites, score, lives, collision detection |
-| [`projects/memory-game`](./projects/memory-game) | [memory-game](https://github.com/ParthSingla2015/memory-game) | Pattern memory, levels, logic, player interaction |
-| [`projects/coin-flipper`](./projects/coin-flipper) | [coin-flipper](https://github.com/ParthSingla2015/coin-flipper) | Randomness, probability, LED display |
-| [`projects/rock-paper-scissors`](./projects/rock-paper-scissors) | [rock-paper-scissors](https://github.com/ParthSingla2015/rock-paper-scissors) | Random choices and classic game design |
-| [`projects/dot-chaser`](./projects/dot-chaser) | [dot-chaser](https://github.com/ParthSingla2015/dot-chaser) | Reaction game and LED movement |
-| [`projects/snap-the-dot`](./projects/snap-the-dot) | [snap-the-dot-](https://github.com/ParthSingla2015/snap-the-dot-) | Reflex-based gameplay |
-| [`projects/crashy-bird`](./projects/crashy-bird) | [crashy-bird](https://github.com/ParthSingla2015/crashy-bird) | Arcade-style movement and obstacles |
-| [`projects/compass-and-music-maker`](./projects/compass-and-music-maker) | [compass-and-music-maker-parths-best-creation](https://github.com/ParthSingla2015/compass-and-music-maker-parths-best-creation) | Compass sensor, gestures, buttons, touch pins, and music |
-| [`projects/wimpy-kid-20`](./projects/wimpy-kid-20) | [wimpy-kid-20](https://github.com/ParthSingla2015/wimpy-kid-20) | Book-inspired creative coding |
-
-## Project Themes
+## Project Categories
 
 ### 🎮 Games
-Space Invaders, Memory Game, Dot Chaser, Snap the Dot, Crashy Bird, Rock Paper Scissors
+- Space Invaders
+- Memory Game
+- Rock Paper Scissors
+- Dot Chaser
+- Snap the Dot
+- Crashy Bird
 
 ### 🧠 Maths and Logic
-Coin Flipper, Memory Game, Rock Paper Scissors
+- Coin Flipper
+- Memory Game
+- Rock Paper Scissors
 
-### 🧭 Sensors and Music
-Compass and Music Maker
+### 🧭 Sensors and Physical Computing
+- Compass and Music Maker
+- Dot Chaser
 
-### 📚 Book-Inspired Coding
-Wimpy Kid 20
+### 📚 Book-Inspired Creative Coding
+- Wimpy Kid 20
 
 ## What I Am Learning
 
-Through these projects, I am learning:
+Through these projects, I am learning how to:
 
-- Event-based coding
-- Game design
-- Randomness and probability
-- Sensors and gestures
-- Problem-solving
-- Creative STEM communication
-- How to explain coding projects clearly
+- Build interactive games on the BBC Micro:bit
+- Use buttons, gestures, LEDs, sprites, and sensors
+- Use randomness and probability in code
+- Create scoring, levels, lives, and game-over conditions
+- Explain coding projects in a simple and readable way
+- Connect coding with books, creativity, and STEM learning
+
+## Tools Used
+
+- BBC Micro:bit
+- Microsoft MakeCode
+- TypeScript / Blocks
+- MicroPython
 
 ## My Motto
 
 **Read. Build. Code. Imagine. Act.**
-
----
-
-## Original Space Invaders MakeCode Project
-
-Open this page at [https://parthsingla2015.github.io/space-invaders/](https://parthsingla2015.github.io/space-invaders/)
-
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/parthsingla2015/space-invaders** and import
-
-## Edit this project
-
-To edit this repository in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/parthsingla2015/space-invaders** and click import
-
-#### Metadata (used for search, rendering)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
