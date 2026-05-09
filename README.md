@@ -2,14 +2,24 @@
 
 Hi, I’m **Parth Singla** — a young STEM builder who enjoys creating **Micro:bit games, sensor projects, book-inspired coding ideas, and creative learning experiments**.
 
-This repository is a clean portfolio of my **9 Micro:bit projects**. Each project is organised inside its own folder so it is easy to read, explore, and review.
+This repository is a structured portfolio of **9 Micro:bit projects** created by Parth Singla. The goal is to make the projects easy for teachers, mentors, reviewers, and young learners to explore.
+
+## Quick Review
+
+- **Creator:** Parth Singla
+- **Focus:** Micro:bit coding, games, sensors, probability, music, and creative STEM
+- **Main folder:** [`projects/`](./projects)
+- **Reviewer guide:** [`REVIEWERS_GUIDE.md`](./REVIEWERS_GUIDE.md)
+- **Tools used:** BBC Micro:bit, Microsoft MakeCode, TypeScript / Blocks, and MicroPython
 
 ## Repository Structure
 
 ```text
 microbit/
 ├── README.md
+├── REVIEWERS_GUIDE.md
 └── projects/
+    ├── README.md
     ├── space-invaders/
     ├── memory-game/
     ├── coin-flipper/
@@ -21,15 +31,17 @@ microbit/
     └── wimpy-kid-20/
 ```
 
+> Note: The curated portfolio is inside the [`projects/`](./projects) folder. Some root MakeCode files may remain from the original project setup, but the organised review-ready version is under `projects/`.
+
 ## Projects at a Glance
 
 | # | Project | Type | Main Learning |
 |---|---|---|---|
-| 1 | [Space Invaders](./projects/space-invaders) | Game | Sprites, score, lives, collision detection |
+| 1 | [Space Invaders](./projects/space-invaders) | Arcade Game | Sprites, score, lives, collision detection |
 | 2 | [Memory Game](./projects/memory-game) | Game / Logic | Sequences, levels, memory, conditions |
 | 3 | [Coin Flipper](./projects/coin-flipper) | Maths / Probability | Randomness and outcomes |
 | 4 | [Rock Paper Scissors](./projects/rock-paper-scissors) | Game | Random choices and icons |
-| 5 | [Dot Chaser](./projects/dot-chaser) | Game | Movement, gestures, scoring |
+| 5 | [Dot Chaser](./projects/dot-chaser) | Gesture Game | Movement, gestures, scoring |
 | 6 | [Snap the Dot](./projects/snap-the-dot) | Reflex Game | Timing and reaction |
 | 7 | [Crashy Bird](./projects/crashy-bird) | Arcade Game | Obstacles, movement, game-over logic |
 | 8 | [Compass and Music Maker](./projects/compass-and-music-maker) | Sensor / Music | Compass heading, gestures, sound |
@@ -68,12 +80,13 @@ Through these projects, I am learning how to:
 - Explain coding projects in a simple and readable way
 - Connect coding with books, creativity, and STEM learning
 
-## Tools Used
+## Best Projects to Review First
 
-- BBC Micro:bit
-- Microsoft MakeCode
-- TypeScript / Blocks
-- MicroPython
+1. [Space Invaders](./projects/space-invaders) — strongest arcade-style game
+2. [Memory Game](./projects/memory-game) — best logic and sequencing project
+3. [Compass and Music Maker](./projects/compass-and-music-maker) — best sensor and music project
+4. [Coin Flipper](./projects/coin-flipper) — simple maths/probability project
+5. [Wimpy Kid 20](./projects/wimpy-kid-20) — shows book-inspired creative coding
 
 ## My Motto
 
