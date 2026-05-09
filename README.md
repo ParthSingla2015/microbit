@@ -9,6 +9,7 @@ This repository is a structured portfolio of **9 Micro:bit projects** created by
 - **Creator:** Parth Singla
 - **Focus:** Micro:bit coding, games, sensors, probability, music, and creative STEM
 - **Main folder:** [`projects/`](./projects)
+- **Portfolio summary:** [`PORTFOLIO_SUMMARY.md`](./PORTFOLIO_SUMMARY.md)
 - **Reviewer guide:** [`REVIEWERS_GUIDE.md`](./REVIEWERS_GUIDE.md)
 - **Tools used:** BBC Micro:bit, Microsoft MakeCode, TypeScript / Blocks, and MicroPython
 
@@ -17,21 +18,39 @@ This repository is a structured portfolio of **9 Micro:bit projects** created by
 ```text
 microbit/
 ├── README.md
+├── PORTFOLIO_SUMMARY.md
 ├── REVIEWERS_GUIDE.md
+├── .gitignore
 └── projects/
     ├── README.md
     ├── space-invaders/
+    │   ├── README.md
+    │   └── main.ts
     ├── memory-game/
+    │   ├── README.md
+    │   └── main.ts
     ├── coin-flipper/
+    │   ├── README.md
+    │   └── main.ts
     ├── rock-paper-scissors/
+    │   ├── README.md
+    │   └── main.ts
     ├── dot-chaser/
+    │   ├── README.md
+    │   └── main.ts
     ├── snap-the-dot/
+    │   ├── README.md
+    │   └── main.ts
     ├── crashy-bird/
+    │   ├── README.md
+    │   └── main.ts
     ├── compass-and-music-maker/
+    │   ├── README.md
+    │   └── main.py
     └── wimpy-kid-20/
+        ├── README.md
+        └── main.ts
 ```
-
-> Note: The curated portfolio is inside the [`projects/`](./projects) folder. Some root MakeCode files may remain from the original project setup, but the organised review-ready version is under `projects/`.
 
 ## Projects at a Glance
 
