@@ -9,9 +9,11 @@ This repository is a structured portfolio of **9 Micro:bit projects** created by
 - **Creator:** Parth Singla
 - **Focus:** Micro:bit coding, games, sensors, probability, music, and creative STEM
 - **About Parth:** [`ABOUT_PARTH.md`](./ABOUT_PARTH.md)
+- **Project index:** [`PROJECT_INDEX.md`](./PROJECT_INDEX.md)
 - **Main folder:** [`projects/`](./projects)
 - **Portfolio summary:** [`PORTFOLIO_SUMMARY.md`](./PORTFOLIO_SUMMARY.md)
 - **Reviewer guide:** [`REVIEWERS_GUIDE.md`](./REVIEWERS_GUIDE.md)
+- **License:** [`MIT License`](./LICENSE)
 - **Tools used:** BBC Micro:bit, Microsoft MakeCode, TypeScript / Blocks, and MicroPython
 
 ## Repository Structure
@@ -20,8 +22,10 @@ This repository is a structured portfolio of **9 Micro:bit projects** created by
 microbit/
 ├── README.md
 ├── ABOUT_PARTH.md
+├── PROJECT_INDEX.md
 ├── PORTFOLIO_SUMMARY.md
 ├── REVIEWERS_GUIDE.md
+├── LICENSE
 ├── .gitignore
 └── projects/
     ├── README.md
