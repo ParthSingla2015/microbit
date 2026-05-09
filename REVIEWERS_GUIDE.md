@@ -45,23 +45,3 @@ Shows how coding can connect with books, stories, and creative expression.
 | Music and sound | Compass and Music Maker |
 | Book-inspired creativity | Wimpy Kid 20 |
 | Logic and conditions | Memory Game, Space Invaders, Crashy Bird |
-
-## Strengths of the portfolio
-
-- Clear variety across games, maths, sensors, music, and storytelling
-- Age-appropriate Micro:bit projects
-- Each project has a readable README
-- Projects are organised in one combined portfolio repository
-- The work shows experimentation rather than only following one template
-
-## Suggested future improvements
-
-- Add photos or short demo videos for each project
-- Add a `demo.gif` or image inside each project folder
-- Add a short reflection from Parth for each project
-- Add a new environmental Micro:bit project, such as a clean-air reminder or water-saving alert
-- Add a project that combines book reviewing with Micro:bit, such as a random book recommendation picker
-
-## Safety note
-
-This is a child-friendly portfolio repository. The project descriptions avoid personal contact details and keep the focus on learning, creativity, and STEM exploration.
