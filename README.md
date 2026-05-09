@@ -2,40 +2,29 @@
 
 Hi, I’m **Parth Singla** — a young STEM builder exploring **Micro:bit coding, LEGO engineering, games, sensors, creativity, books, and climate storytelling** through hands-on projects.
 
-This repository currently contains my **Space Invaders Micro:bit game**, and it also works as a central index for my other Micro:bit projects on GitHub.
+This repository is now a **combined portfolio repo** that brings together all 9 of my Micro:bit projects inside one place.
 
-## Featured Project: Space Invaders on Micro:bit
+## Main Folder
 
-A small Space Invaders-style game built using the BBC Micro:bit and Microsoft MakeCode.
+All projects are collected here:
 
-### What this project does
+➡️ [`projects/`](./projects)
 
-- Uses LED sprites for the player and enemy
-- Uses button controls for movement
-- Includes shooting, scoring, and lives
-- Demonstrates simple game logic and collision detection
+Each project has its own folder and source code file.
 
-### What I learned
+## Projects Included
 
-- How to use Micro:bit sprites
-- How button events work
-- How to build a simple game loop
-- How scoring and lives can make a game more fun
-- How coding can turn an idea into a playable game
-
-## My Micro:bit Projects
-
-| Project | What it shows |
-|---|---|
-| [Space Invaders](https://github.com/ParthSingla2015/space-invaders) | Game logic, sprites, score, lives, collision detection |
-| [Memory Game](https://github.com/ParthSingla2015/memory-game) | Pattern memory, logic, player interaction |
-| [Coin Flipper](https://github.com/ParthSingla2015/coin-flipper) | Randomness, probability, LED display |
-| [Rock Paper Scissors](https://github.com/ParthSingla2015/rock-paper-scissors) | Random choices and classic game design |
-| [Dot Chaser](https://github.com/ParthSingla2015/dot-chaser) | Reaction game and LED movement |
-| [Snap the Dot](https://github.com/ParthSingla2015/snap-the-dot-) | Reflex-based gameplay |
-| [Crashy Bird](https://github.com/ParthSingla2015/crashy-bird) | Arcade-style movement and obstacles |
-| [Compass and Music Maker](https://github.com/ParthSingla2015/compass-and-music-maker-parths-best-creation) | Compass sensor, gestures, buttons, touch pins, and music |
-| [Wimpy Kid 20](https://github.com/ParthSingla2015/wimpy-kid-20) | Book-inspired creative coding |
+| Project Folder | Original Repository | What it shows |
+|---|---|---|
+| [`projects/space-invaders`](./projects/space-invaders) | [space-invaders](https://github.com/ParthSingla2015/space-invaders) | Game logic, sprites, score, lives, collision detection |
+| [`projects/memory-game`](./projects/memory-game) | [memory-game](https://github.com/ParthSingla2015/memory-game) | Pattern memory, levels, logic, player interaction |
+| [`projects/coin-flipper`](./projects/coin-flipper) | [coin-flipper](https://github.com/ParthSingla2015/coin-flipper) | Randomness, probability, LED display |
+| [`projects/rock-paper-scissors`](./projects/rock-paper-scissors) | [rock-paper-scissors](https://github.com/ParthSingla2015/rock-paper-scissors) | Random choices and classic game design |
+| [`projects/dot-chaser`](./projects/dot-chaser) | [dot-chaser](https://github.com/ParthSingla2015/dot-chaser) | Reaction game and LED movement |
+| [`projects/snap-the-dot`](./projects/snap-the-dot) | [snap-the-dot-](https://github.com/ParthSingla2015/snap-the-dot-) | Reflex-based gameplay |
+| [`projects/crashy-bird`](./projects/crashy-bird) | [crashy-bird](https://github.com/ParthSingla2015/crashy-bird) | Arcade-style movement and obstacles |
+| [`projects/compass-and-music-maker`](./projects/compass-and-music-maker) | [compass-and-music-maker-parths-best-creation](https://github.com/ParthSingla2015/compass-and-music-maker-parths-best-creation) | Compass sensor, gestures, buttons, touch pins, and music |
+| [`projects/wimpy-kid-20`](./projects/wimpy-kid-20) | [wimpy-kid-20](https://github.com/ParthSingla2015/wimpy-kid-20) | Book-inspired creative coding |
 
 ## Project Themes
 
@@ -51,7 +40,7 @@ Compass and Music Maker
 ### 📚 Book-Inspired Coding
 Wimpy Kid 20
 
-## My Learning Goals
+## What I Am Learning
 
 Through these projects, I am learning:
 
@@ -69,7 +58,7 @@ Through these projects, I am learning:
 
 ---
 
-## Open this project
+## Original Space Invaders MakeCode Project
 
 Open this page at [https://parthsingla2015.github.io/space-invaders/](https://parthsingla2015.github.io/space-invaders/)
 
