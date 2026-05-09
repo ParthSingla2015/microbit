@@ -17,8 +17,27 @@ Parth uses creativity as a bridge between books and technology. He reads stories
 | Main interests | Micro:bit coding, STEM building, books, storytelling, sustainability, LEGO-style mechanical builds |
 | Coding focus | Micro:bit games, sensors, randomness, music, logic, LED sprites, gestures, and button interactions |
 | Creative focus | Book reviews, poems, stories, environmental writing, and book-inspired STEM ideas |
-| Public platforms | GitHub, LinkedIn, Instagram, Earth.Org Kids, Happy Eco News, RobinAge, Bookosmia, StoryMirror, Story Monsters |
+| Public platforms | GitHub, LinkedIn, Instagram, Earth.Org Kids, Happy Eco News, RobinAge, Bookosmia, StoryMirror, Story Monsters, Kids World Travel Guide, Skipping Stones |
 | Core message | Children can learn deeply by reading, building, testing, improving, and sharing ideas |
+
+## Direct Proof Links
+
+The following links are public, workable pages where Parth's work, name, article, poem, review, or recognition can be seen directly.
+
+| Area | Proof | Link |
+|---|---|---|
+| Environmental article | **Life in the Water Is Delicate: Let's Protect It** by Parth Singla, Age 10, India | [Earth.Org Kids](https://kids.earth.org/news-by/life-in-the-water-is-delicate-lets-protect-it/) |
+| Environmental author profile | Happy Eco News author page for Parth Singla | [Happy Eco News](https://happyeconews.com/author/parth-singla/) |
+| Clean-energy article | **The Windmill That Spoke to the Sky** by Parth Singla, Age 9, Haryana, India | [Skipping Stones](https://www.skippingstones.org/wp/category/asia/india/) |
+| Book article | **Exploring the Enid Blyton Mystery Series – My Favorite Book Adventure So Far!** by Parth Singla | [RobinAge](https://www.robinage.com/exploring-the-enid-blyton-mystery-series-my-favorite-book-adventure-so-far/) |
+| Reading journey essay | **Adventures, Magic, and Me – My Journey Through Books** by Parth Singla | [Bookosmia](https://bookosmia.com/adventures-magic-and-me-my-journey-through-books-by-parth/) |
+| Poem | **My Magical Book – Harry Potter** by Parth Singla | [StoryMirror](https://storymirror.com/read/english/poem/my-magical-book-harry-potter/b8zjjgu1) |
+| Book reviews | Public five-star book reviews under **Parth Singla - Book Explorer** | [Story Monsters](https://storymonsters.com/sample-book-reviews) |
+| Essay recognition | **Turning Pages, Shaping Tomorrow** by Parth Singla, Junior Category Commendation | [Kids World Travel Guide](https://www.kids-world-travel-guide.com/turning-pages-shaping-tomorrow.html) |
+| Poetry award | **My Paper Kite** listed under Youth winners | [Maria W. Faust 2025 Winners](https://sonnetcontest.org/2025-winners) |
+| Poetry award PDF | **My Paper Kite** included in official winning sonnets PDF | [2025 Sonnet Contest Winners PDF](https://sonnetcontest.org/wp-content/uploads/2025/07/2025-Sonnet-Contest-Winners.pdf) |
+| Broader public profile proof | Public LinkedIn page listing projects, publications, licenses, and awards | [LinkedIn](https://www.linkedin.com/in/parthsingla2015/) |
+| Parent-submitted public story | Public story describing Parth's sustainability, writing, and youth-leadership work | [Opportunities for Youth](https://opportunitiesforyouth.org/testimonial/saurav-singla/) |
 
 ## Micro:bit and Coding Work
 
@@ -55,45 +74,58 @@ This repository presents Parth's Micro:bit coding work in one structured portfol
 
 Parth's work is not limited to coding. He is also a young reader and writer who connects books with creativity, STEM, and real-world thinking.
 
-### Published and public writing links
+### Published and proof-backed writing links
 
-| Work / Profile | Platform | Link |
+| Work / Profile | Platform | Proof Link |
 |---|---|---|
 | **Life in the Water Is Delicate: Let's Protect It** | Earth.Org Kids | [Read article](https://kids.earth.org/news-by/life-in-the-water-is-delicate-lets-protect-it/) |
-| **Why I Stopped Using Plastic and Why You Can Too** | Happy Eco News | [Author page](https://happyeconews.com/author/parth-singla/) |
+| **Why I Stopped Using Plastic and Why You Can Too** / author profile | Happy Eco News | [Author page](https://happyeconews.com/author/parth-singla/) |
+| **The Windmill That Spoke to the Sky** | Skipping Stones | [Read article](https://www.skippingstones.org/wp/category/asia/india/) |
 | **Exploring the Enid Blyton Mystery Series – My Favorite Book Adventure So Far!** | RobinAge | [Read article](https://www.robinage.com/exploring-the-enid-blyton-mystery-series-my-favorite-book-adventure-so-far/) |
 | **Adventures, Magic & Me: Journey Through Books** | Bookosmia | [Read article](https://bookosmia.com/adventures-magic-and-me-my-journey-through-books-by-parth/) |
-| **Magic Marks the Spot by Caroline Carlson – Book Review** | Bookosmia | [Read review](https://bookosmia.com/book-review-magic-marks-the-spot-by-caroline-carlson/) |
 | **My Magical Book – Harry Potter** | StoryMirror | [Read poem](https://storymirror.com/read/english/poem/my-magical-book-harry-potter/b8zjjgu1) |
 | **Five-Star Book Reviews** | Story Monsters | [Read reviews](https://storymonsters.com/sample-book-reviews) |
 | **Turning Pages, Shaping Tomorrow** | Kids World Travel Guide | [Read essay](https://www.kids-world-travel-guide.com/turning-pages-shaping-tomorrow.html) |
 
 ## Environmental Storytelling and Changemaking
 
-Parth uses stories and projects to talk about sustainability, clean water, ocean life, plastic pollution, conservation, and the role of children in protecting the planet.
+Parth uses stories and projects to talk about sustainability, clean water, ocean life, plastic pollution, conservation, clean energy, and the role of children in protecting the planet.
 
 His Earth.Org Kids article, **Life in the Water Is Delicate: Let's Protect It**, presents him as a 10-year-old young changemaker from India and focuses on ocean and water conservation. His Happy Eco News author profile describes him as an eco-storyteller, builder, and changemaker who blends books, LEGO machines, STEM projects, and sustainability storytelling.
 
-This environmental theme connects naturally with his STEM work. His projects show that learning is not only about code; it is also about asking how technology, creativity, and children’s voices can help build a kinder and more sustainable world.
+His Skipping Stones article, **The Windmill That Spoke to the Sky**, connects a DIY windmill project with clean energy, renewable energy, curiosity, and a child's belief that learning about science can inspire action.
+
+This environmental theme connects naturally with his STEM work. His projects show that learning is not only about code; it is also about asking how technology, creativity, and children's voices can help build a kinder and more sustainable world.
 
 ## Awards, Recognition, and Public Achievements
 
-Parth's public profiles and published pages show recognition across writing, poetry, book reviewing, STEM creativity, and sustainability communication.
+Parth's public pages show recognition across writing, poetry, book reviewing, STEM creativity, and sustainability communication.
 
-### Key recognitions
+### Directly proof-backed recognitions
 
-| Achievement | Organisation / Platform | Details / Link |
+| Achievement | Organisation / Platform | Proof Link |
 |---|---|---|
-| **Youth Prize Winner – 2025 Maria W. Faust Sonnet Contest** | Maria W. Faust Sonnet Contest | Parth's sonnet **My Paper Kite** was listed among the 2025 Youth winners. [2025 winners](https://sonnetcontest.org/2025-winners) |
-| **My Paper Kite published in 2025 winning sonnets PDF** | Maria W. Faust Sonnet Contest | The winning sonnet is included in the official 2025 winners PDF. [PDF](https://sonnetcontest.org/wp-content/uploads/2025/07/2025-Sonnet-Contest-Winners.pdf) |
-| **Maria W. Faust Sonnet Contest 2025 global participation** | Maria W. Faust Sonnet Contest | The contest reported entries from 18 countries and 41 U.S. states in 2025. [Contest page](https://sonnetcontest.org/) |
-| **International Star Kid Award 2025 / Rising Star recognition** | International Star Kids Awards | Listed on Parth's public LinkedIn profile as recognition for STEM, storytelling, and book-review work. [LinkedIn](https://www.linkedin.com/in/parthsingla2015/) |
-| **Silver Award – Queen's Commonwealth Essay Competition 2025** | Royal Commonwealth Society | Listed on Parth's public LinkedIn profile; the Royal Commonwealth Society describes QCEC as the world's oldest international writing competition for schools. [LinkedIn](https://www.linkedin.com/in/parthsingla2015/) / [RCS competition page](https://www.royalcwsociety.org/essay-competition/qcec2025%E2%9C%A8) |
-| **First Place – For All Our Kids Book Review Contest 2025** | For All Our Kids | Listed on Parth's public LinkedIn profile as First Place in the 5th Grade Category. [LinkedIn](https://www.linkedin.com/in/parthsingla2015/) |
-| **Kids World Travel Guide Essay Competition 2025 – Commendation / Merit recognition** | Kids World Travel Guide | His essay **Turning Pages, Shaping Tomorrow** appears in the Junior Category. [Read essay](https://www.kids-world-travel-guide.com/turning-pages-shaping-tomorrow.html) |
-| **Story Monsters book reviewer** | Story Monsters | Parth appears as **Parth Singla - Book Explorer** in public five-star book reviews. [Story Monsters reviews](https://storymonsters.com/sample-book-reviews) |
-| **Earth.Org Kids young changemaker feature** | Earth.Org Kids | His article bio describes him as a young changemaker interested in environmental conservation, STEM innovation, and creative storytelling. [Read article](https://kids.earth.org/news-by/life-in-the-water-is-delicate-lets-protect-it/) |
-| **Happy Eco News author profile** | Happy Eco News | The profile highlights him as a 10-year-old eco-storyteller, builder, and changemaker. [Author page](https://happyeconews.com/author/parth-singla/) |
+| **Youth Winner – 2025 Maria W. Faust Sonnet Contest** | Maria W. Faust Sonnet Contest | [2025 winners page](https://sonnetcontest.org/2025-winners) |
+| **Winning sonnet: My Paper Kite** | Maria W. Faust Sonnet Contest | [Official winners PDF](https://sonnetcontest.org/wp-content/uploads/2025/07/2025-Sonnet-Contest-Winners.pdf) |
+| **Junior Category Commendation – Turning Pages, Shaping Tomorrow** | Kids World Travel Guide Essay Competition 2025 | [Essay page](https://www.kids-world-travel-guide.com/turning-pages-shaping-tomorrow.html) |
+| **Earth.Org Kids young changemaker feature** | Earth.Org Kids | [Article and author bio](https://kids.earth.org/news-by/life-in-the-water-is-delicate-lets-protect-it/) |
+| **Happy Eco News author profile** | Happy Eco News | [Author page](https://happyeconews.com/author/parth-singla/) |
+| **Story Monsters book-review presence** | Story Monsters | [Sample reviews page](https://storymonsters.com/sample-book-reviews) |
+
+### LinkedIn-listed recognitions
+
+The following recognitions are listed on Parth's public LinkedIn profile. They are included here with LinkedIn as the public proof link.
+
+| Recognition | Listed Proof |
+|---|---|
+| International Star Kids Award 2025 / Rising Star recognition | [LinkedIn](https://www.linkedin.com/in/parthsingla2015/) |
+| Silver Award – Queen's Commonwealth Essay Competition 2025 | [LinkedIn](https://www.linkedin.com/in/parthsingla2015/) |
+| First Place – For All Our Kids Book Review Contest 2025 | [LinkedIn](https://www.linkedin.com/in/parthsingla2015/) |
+| Gold Award – World Youth and Teenage Writing Contest | [LinkedIn](https://www.linkedin.com/in/parthsingla2015/) |
+| Top 25 – #KaamKiBaat Writing Sprint by Youth Ki Awaaz | [LinkedIn](https://www.linkedin.com/in/parthsingla2015/) |
+| Certificate of Excellence – Globally Published Book Review | [LinkedIn](https://www.linkedin.com/in/parthsingla2015/) |
+| ISRO Missions Workshop – Certificate of Appreciation | [LinkedIn](https://www.linkedin.com/in/parthsingla2015/) |
+| Pledge Certificate – Quality Champion by QCI | [LinkedIn](https://www.linkedin.com/in/parthsingla2015/) |
 
 ## Books, STEM, and Building
 
