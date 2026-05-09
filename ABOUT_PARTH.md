@@ -4,6 +4,11 @@
 
 His work brings together **coding, reading, building, imagination, and problem-solving**. Through his projects, Parth explores how technology can make learning more fun, interactive, and meaningful for children.
 
+## Online Profiles
+
+- **LinkedIn:** [Parth Singla](https://www.linkedin.com/in/parthsingla2015/)
+- **Instagram:** [@parthsingla2015](https://www.instagram.com/parthsingla2015/)
+
 ## What Parth Creates
 
 Parth enjoys working on different kinds of creative learning projects, including:
