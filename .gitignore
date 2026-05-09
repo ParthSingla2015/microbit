@@ -1,4 +1,4 @@
-# MakeCode
+# MakeCode / Micro:bit generated folders
 built
 node_modules
 yotta_modules
@@ -6,7 +6,21 @@ yotta_targets
 pxt_modules
 .pxt
 _site
+
+# MakeCode temporary files
 *.db
 *.tgz
 .header.json
 .simstate.json
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
