@@ -34,11 +34,3 @@ The strongest projects to review first are:
 1. **Space Invaders** — strongest arcade-style game
 2. **Memory Game** — strongest logic and sequencing project
 3. **Compass and Music Maker** — strongest sensor and music project
-
-## Future Improvements
-
-- Add demo videos or GIFs for every project
-- Add photos of the Micro:bit running each project
-- Add short reflections written by Parth
-- Add one sustainability-themed Micro:bit project
-- Add one book-recommendation Micro:bit project
