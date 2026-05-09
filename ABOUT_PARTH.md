@@ -20,9 +20,9 @@ Parth uses creativity as a bridge between books and technology. He reads stories
 | Public platforms | GitHub, LinkedIn, Instagram, Earth.Org Kids, Happy Eco News, RobinAge, Bookosmia, StoryMirror, Story Monsters, Kids World Travel Guide, Skipping Stones |
 | Core message | Children can learn deeply by reading, building, testing, improving, and sharing ideas |
 
-## Direct Proof Links
+## Direct Public Proof Links
 
-The following links are public, workable pages where Parth's work, name, article, poem, review, or recognition can be seen directly.
+The following public links show Parth's name, work, article, poem, review, recognition, or profile directly.
 
 | Area | Proof | Link |
 |---|---|---|
@@ -36,14 +36,12 @@ The following links are public, workable pages where Parth's work, name, article
 | Essay recognition | **Turning Pages, Shaping Tomorrow** by Parth Singla, Junior Category Commendation | [Kids World Travel Guide](https://www.kids-world-travel-guide.com/turning-pages-shaping-tomorrow.html) |
 | Poetry award | **My Paper Kite** listed under Youth winners | [Maria W. Faust 2025 Winners](https://sonnetcontest.org/2025-winners) |
 | Poetry award PDF | **My Paper Kite** included in official winning sonnets PDF | [2025 Sonnet Contest Winners PDF](https://sonnetcontest.org/wp-content/uploads/2025/07/2025-Sonnet-Contest-Winners.pdf) |
-| Broader public profile proof | Public LinkedIn page listing projects, publications, licenses, and awards | [LinkedIn](https://www.linkedin.com/in/parthsingla2015/) |
+| Public profile proof | Public LinkedIn page listing projects, publications, licenses, and awards | [LinkedIn](https://www.linkedin.com/in/parthsingla2015/) |
 | Parent-submitted public story | Public story describing Parth's sustainability, writing, and youth-leadership work | [Opportunities for Youth](https://opportunitiesforyouth.org/testimonial/saurav-singla/) |
 
 ## Micro:bit and Coding Work
 
 This repository presents Parth's Micro:bit coding work in one structured portfolio. The projects show how he uses a small device like the BBC Micro:bit to understand game design, logic, sensors, movement, music, and creative expression.
-
-### Projects in this repository
 
 | Project | What it shows |
 |---|---|
@@ -70,32 +68,15 @@ This repository presents Parth's Micro:bit coding work in one structured portfol
 - Music and sound playback
 - Connecting stories with code
 
-## Writing, Reading, and Book Reviewing
+## Environmental Storytelling, Reading, and Book Reviewing
 
-Parth's work is not limited to coding. He is also a young reader and writer who connects books with creativity, STEM, and real-world thinking.
-
-### Published and proof-backed writing links
-
-| Work / Profile | Platform | Proof Link |
-|---|---|---|
-| **Life in the Water Is Delicate: Let's Protect It** | Earth.Org Kids | [Read article](https://kids.earth.org/news-by/life-in-the-water-is-delicate-lets-protect-it/) |
-| **Why I Stopped Using Plastic and Why You Can Too** / author profile | Happy Eco News | [Author page](https://happyeconews.com/author/parth-singla/) |
-| **The Windmill That Spoke to the Sky** | Skipping Stones | [Read article](https://www.skippingstones.org/wp/category/asia/india/) |
-| **Exploring the Enid Blyton Mystery Series – My Favorite Book Adventure So Far!** | RobinAge | [Read article](https://www.robinage.com/exploring-the-enid-blyton-mystery-series-my-favorite-book-adventure-so-far/) |
-| **Adventures, Magic & Me: Journey Through Books** | Bookosmia | [Read article](https://bookosmia.com/adventures-magic-and-me-my-journey-through-books-by-parth/) |
-| **My Magical Book – Harry Potter** | StoryMirror | [Read poem](https://storymirror.com/read/english/poem/my-magical-book-harry-potter/b8zjjgu1) |
-| **Five-Star Book Reviews** | Story Monsters | [Read reviews](https://storymonsters.com/sample-book-reviews) |
-| **Turning Pages, Shaping Tomorrow** | Kids World Travel Guide | [Read essay](https://www.kids-world-travel-guide.com/turning-pages-shaping-tomorrow.html) |
-
-## Environmental Storytelling and Changemaking
-
-Parth uses stories and projects to talk about sustainability, clean water, ocean life, plastic pollution, conservation, clean energy, and the role of children in protecting the planet.
+Parth uses stories and projects to talk about sustainability, clean water, ocean life, plastic pollution, conservation, clean energy, books, and the role of children in protecting the planet.
 
 His Earth.Org Kids article, **Life in the Water Is Delicate: Let's Protect It**, presents him as a 10-year-old young changemaker from India and focuses on ocean and water conservation. His Happy Eco News author profile describes him as an eco-storyteller, builder, and changemaker who blends books, LEGO machines, STEM projects, and sustainability storytelling.
 
 His Skipping Stones article, **The Windmill That Spoke to the Sky**, connects a DIY windmill project with clean energy, renewable energy, curiosity, and a child's belief that learning about science can inspire action.
 
-This environmental theme connects naturally with his STEM work. His projects show that learning is not only about code; it is also about asking how technology, creativity, and children's voices can help build a kinder and more sustainable world.
+Parth is also a young reader and writer who connects books with creativity, STEM, and real-world thinking. His book-inspired coding projects show that technology does not have to be separate from reading and imagination. Coding can also be a way to express stories, characters, humour, and ideas.
 
 ## Awards, Recognition, and Public Achievements
 
